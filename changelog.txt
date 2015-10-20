@@ -543,3 +543,4 @@ The only reason O.J. won his case was because Chuck Norris was a 49ers fan
 Chuck Norris put the I in IPhone with a real human eye
 Many people can make rocks skip on water.  Chuck Norris does it better -- by skipping entire islands.
 Chuck Norris can blow bubbles with beef jerky.
+Every SQL statement that Chuck Norris codes has an implicit "COMMIT" in its end.
