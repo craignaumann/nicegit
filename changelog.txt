@@ -2338,3 +2338,4 @@ The GM.DLS file contains the Roland SoundCanvas Sound Set which is protected und
 Chuck Norris is proud to be Chuck Norris.
 Chuck Norris can recharge his chuckPod by plugging it into a piece of cheese.
 Chuck Norris doesn't do push-ups he just pushes the earth down.
+Hammertime does not stop Chuck Norris
