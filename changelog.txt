@@ -5353,3 +5353,4 @@ When Chuck Norris plays football, he uses his foot and your balls.
 Chuck norris can drown a fish
 You have no idea just how many hemorrhoids one person could possibly have until Chuck Norris takes his foot out of your ass.
 CHuck norris can fly a kite indoors
+Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
