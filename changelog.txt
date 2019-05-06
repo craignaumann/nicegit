@@ -5737,3 +5737,4 @@ Chuck Norris puts the G in G-spot.
 Chuck Norris is allowed to put Baby in the corner.
 Chuck Norris wields a freight train like nunchucks.
 Whoever said "You can't win them all" obviously never met Chuck Norris
+Chuck Norris protocol design method has no status, requests or responses, only commands.
