@@ -5901,3 +5901,4 @@ Chuck Norris can cut a knife with butter
 Chuck Norris is so fast, he can lock a drawer with the key still inside it.
 Chuck Norris is also considered a world-class pimp
 Chuck Norris won a Pulitzer for his "Karate for Dummies" booklet.
+Chuck Norris can access private methods.
