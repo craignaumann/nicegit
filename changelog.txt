@@ -4431,3 +4431,4 @@ Chuck Norris does not kick ass and take names. In fact, Chuck Norris kicks ass a
 Chuck Norris often works out in public. He was spotted last week on Hwy 66 roundhouse kicking tornados as a warm up.
 Chuck Norris once swung a walrus around by its tusks and threw it half a mile. He kept the tusks.
 A circus clown once bumped into Chuck Norris. It took him only three seconds to twist the clown into an animal balloon.
+The class object inherits from Chuck Norris
