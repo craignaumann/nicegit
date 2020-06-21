@@ -9042,3 +9042,4 @@ Chuck Norris got the most kills in a battle ground without no pvp gear or weapon
 Chuck Norris made SCREAM scream so bad he drops his mouth
 Chuck Norris can shut a revolving door
 Chuck Norris can blow up a balloon with both of his lips tied behind his back.
+Every SQL statement that Chuck Norris codes has an implicit "COMMIT" in its end.
