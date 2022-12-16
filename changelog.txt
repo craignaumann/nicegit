@@ -9145,3 +9145,4 @@ Chuck Norris' uvula is the size of a punching bag.
 Chuck Norris' penis has a knee joint in the middle.
 Two Mary Kay salesmen knocked on Chuck Norris' door. They introduced themselves as Ben Dover & Phil McCrakin. They are no longer in business together.
 Chuck Norris can speak French....in Russian
+No statement can catch the ChuckNorrisException.
