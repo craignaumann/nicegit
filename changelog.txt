@@ -9605,3 +9605,4 @@ A good man is hard to find, but Chuck Norris can easily find one and snap him ov
 Chuck Norris surgically removed his his own hemorrhoids with his toenails, tanned them and made a beautiful travel bag out of them.
 Chuck Norris is the illegitimate father of Casey Heynes (look it up).
 Chuck Norris once won The Indianapolis 500 while driving bulldozer in reverse.
+No statement can catch the ChuckNorrisException.
